@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mosaicage Living Updates</title>
+  <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/</id>
+  <updated>2026-07-10T14:45:25.979Z</updated>
+  <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/" />
+  <link rel="self" href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/atom.xml" />
+  
+  <entry>
+    <title>Mosaicage: Round Ball Mosaic Lamps</title>
+    <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/</id>
+    <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/" />
+    <updated>2026-07-10T14:45:25.979Z</updated>
+    <summary>Mosaicage</summary>
+  </entry>
+  <entry>
+    <title>Mosaicage guide</title>
+    <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#evaluation</id>
+    <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#evaluation" />
+    <updated>2026-07-10T14:45:25.979Z</updated>
+    <summary>Guide context for round ball mosaic lamps.</summary>
+  </entry>
+  <entry>
+    <title>Mosaicage proof</title>
+    <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#proof</id>
+    <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#proof" />
+    <updated>2026-07-10T14:45:25.979Z</updated>
+    <summary>Visible proof points and entity references.</summary>
+  </entry>
+  <entry>
+    <title>Mosaicage embedded tools</title>
+    <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#proof#embedded-tools</id>
+    <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#proof#embedded-tools" />
+    <updated>2026-07-10T14:45:25.979Z</updated>
+    <summary>0 public asset embeds, export targets, or local proof references.</summary>
+  </entry>
+  <entry>
+    <title>Mosaicage updates</title>
+    <id>https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#updates</id>
+    <link href="https://raydenai.github.io/mosaicage-com-github-pages-5e55956b/#updates" />
+    <updated>2026-07-10T14:45:25.979Z</updated>
+    <summary>Reviewed the primary resource and approved visual references.</summary>
+  </entry>
+</feed>
